@@ -1,71 +1,24 @@
-# Dependencies
-node_modules/
-
-# Build outputs
-dist/
-build/
-out/
-release/
-
-# Electron
-*.asar
-
 # Logs
-logs/
+logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+lerna-debug.log*
 
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+node_modules
+dist
+dist-ssr
+*.local
 
-# OS files
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
 .DS_Store
-Thumbs.db
-
-# IDE / Editor
-.vscode/
-.idea/
-
-# Temporary files
-tmp/
-temp/
-.cache/
-
-# Save files
-saves/
-autosaves/
-
-# Media cache/generated previews
-cache/
-generated/
-thumbnails/
-
-# Coverage
-coverage/
-
-# TypeScript
-*.tsbuildinfo
-
-# Testing
-playwright-report/
-test-results/
-
-# Electron packaging
-*.exe
-*.dmg
-*.AppImage
-
-# Local database
-*.sqlite
-*.db
-
-# Misc
-*.bak
-*.old
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
