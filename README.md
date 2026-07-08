@@ -1,4 +1,15 @@
-# Project-WAZOE
-The Wacky Amazing Zany Online Experience — A chaotic multiplayer trivia and buzzer game for streams, Discords, and parties. Based on hit games like Jeopdrady, Kahoot and jackbox party comes the newest innovation in chaotic fun.
+# Project-WAZOE The Wacky Amazing Zany Online Experience 
+— a chaotic multiplayer trivia and buzzer game for streams, Discords, and parties. Based on hit hames like Jeopdrady, Kahoot and jackbox comes the newest innovation in chaotic fun.
 
-Inspidered by the Anime jeopradies played by Heralen and Ticed upwith the rest of the petting the Dog discord uploaded on youtube.
+# React + TypeScript + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
